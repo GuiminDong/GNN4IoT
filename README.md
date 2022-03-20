@@ -17,4 +17,4 @@
 * Zhang, Weishan, et al. "Modeling IoT equipment with graph neural networks." IEEE Access 7 (2019): 32754-32764. [Link](https://ieeexplore.ieee.org/abstract/document/8658112)
 
 
-### Relavant Public Dataset for GNN in IoT
+### Relavant Public Dataset for GNN in IoT:
