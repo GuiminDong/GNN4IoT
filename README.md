@@ -76,7 +76,7 @@ Dataset used or potential helpful in GNN-related research.
 | Name        | Feature                                                      | Link                                                         |
 | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | GNN4Traffic | Repository for the collection of Graph Neural Network for Traffic Forecasting | [Link](https://github.com/jwwthu/GNN4Traffic)                |
-| TLC Trip    | Origin-Destination demand taxi dataset, trip record data     | [Link](Taxi Trajectories for all the 442 taxis running in the city of Porto, in Portugal) |
+| TLC Trip    | Origin-Destination demand taxi dataset, trip record data     | [Link](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page) |
 | Kaggle Taxi | Taxi Trajectories for all the 442 taxis running in the city of Porto, in Portugal | [Link](https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i) |
 
 #### Autonomous Vehicle
