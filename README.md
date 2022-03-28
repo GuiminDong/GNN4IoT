@@ -31,7 +31,6 @@
 ### Human State Dynamics:
 * Dong, Guimin, et al. "Semi-supervised Graph Instance Transformer for Mental Health Inference." 2021 20th IEEE International Conference on Machine Learning and Applications (ICMLA). IEEE, 2021. [Link](https://ieeexplore.ieee.org/abstract/document/9679981?casa_token=NZktpSySDKUAAAAA:9yAScp6BkRfYUUOwXfUmMWRg2TG6bEQJ3xnVSRMk0R1g2_TMUr_toVJyA9RXcawOHayjBbRFyKg)
 * Li, Xiaoyu, et al. "Classify EEG and reveal latent graph structure with spatio-temporal graph convolutional neural network." 2019 IEEE International Conference on Data Mining (ICDM). IEEE, 2019. [Link](https://ieeexplore.ieee.org/iel7/8961330/8970627/08970787.pdf)
-* 【Not Found】Guimin Dong Brad Campbell Brendan Bowman Jamie Zoellner Emaad Abdel-Rahman Mehdi Boukhechba Mingyue Tang, Jiechao Gao.2022. SRDA: Mobile Sensing based Fluid Intake Anomaly Detection for End Stage Kidney Patients via Self-Attention Sensor RelationDual Autoencoder.
 * Jang, Soobeom, Seong-Eun Moon, and Jong-Seok Lee. "EEG-based video identification using graph signal modeling and graph convolutional neural network." 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2018. [Link](https://ieeexplore.ieee.org/iel7/8450881/8461260/08462207.pdf)
 * Han, Jindong, et al. "GraphConvLSTM: Spatiotemporal Learning for Activity Recognition with Wearable Sensors." 2019 IEEE Global Communications Conference (GLOBECOM). IEEE, 2019. [Link](https://ieeexplore.ieee.org/iel7/8968653/9013108/09013934.pdf)
 * Song, Tengfei, et al. "EEG emotion recognition using dynamical graph convolutional neural networks." IEEE Transactions on Affective Computing 11.3 (2018): 532-541. [Link](https://ieeexplore.ieee.org/iel7/5165369/5520654/08320798.pdf)
@@ -41,8 +40,6 @@
 * Li, Jingcong, et al. "Cross-Subject EEG Emotion Recognition With Self-Organized Graph Neural Network." Frontiers in Neuroscience (2021): 689. [Link](https://www.frontiersin.org/articles/10.3389/fnins.2021.611653/full)
 * Dong, Guimin, et al. "Influenza-like symptom recognition using mobile sensing and graph neural networks." Proceedings of the Conference on Health, Inference, and Learning. 2021. [Link](https://dl.acm.org/doi/pdf/10.1145/3450439.3451880)
 * Zhong, Peixiang, Di Wang, and Chunyan Miao. "EEG-based emotion recognition using regularized graph neural networks." IEEE Transactions on Affective Computing (2020). [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9091308)
-* 【Not Found】Jamie Zoellner Brendan Bowman Emaad Abel-Rahman Mehdi Boukhechba Mingyue Tang, Guimin Dong. [n.d.]. Using Ubiquitous Mobile Sensing and Temporal Sensor-Relation Graph Neural Network to Predict Fluid Intake of End Stage Kidney Patients. In Proceedings of the 21th International Conference on Information Processing in Sensor Networks
-* 【Not Found】Lihua Cai Laura E. Barnes Mehdi Boukhechba Guimin Dong, Mingyue Tang. 2022. Incremental Federated Learning for Mobile Health. (2022).
 
 
 ### IoT Sensor Interconnection:
