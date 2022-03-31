@@ -4,6 +4,7 @@
 #### If you find this repository helpful, you may consider citing our work:
 * Guimin Dong, Mingyue Tang, Zhiyuan Wang, Jiechao Gao, Sikun Guo, Lihua Cai, Robert Gutierrez, Bradford Campbell, Laura E. Barnes, Mehdi Boukhechba, **Graph Neural Networks in IoT: A Survey**. [Link](https://arxiv.org/abs/2203.15935)
 
+```
 @misc{DongGraphIoT,
   doi = {10.48550/ARXIV.2203.15935},
   url = {https://arxiv.org/abs/2203.15935},
@@ -13,7 +14,7 @@
   publisher = {arXiv},
   year = {2022}
 }
-
+```
 
 ### We categorize GNNs in IoT into the following groups based on their semantics of graph modeling: 
 **1）Multi-agent Interaction**, **2）Human State Dynamics**, and **3）IoT Sensor Interconnection.**
