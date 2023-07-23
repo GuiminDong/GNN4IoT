@@ -2,17 +2,27 @@
 ### This is the repository for the collection of applying Graph Neural Networks in Internet of Things (IoT).
 
 #### If you find this repository helpful, you may consider citing our work:
-* Guimin Dong, Mingyue Tang, Zhiyuan Wang, Jiechao Gao, Sikun Guo, Lihua Cai, Robert Gutierrez, Bradford Campbell, Laura E. Barnes, Mehdi Boukhechba, **Graph Neural Networks in IoT: A Survey**. [Link](https://arxiv.org/abs/2203.15935)
+* Guimin Dong, Mingyue Tang, Zhiyuan Wang, Jiechao Gao, Sikun Guo, Lihua Cai, Robert Gutierrez, Bradford Campbell, Laura E. Barnes, Mehdi Boukhechba, **Graph Neural Networks in IoT: A Survey**. [Link](https://doi.org/10.1145/3565973)
 
 ```
-@misc{DongGraphIoT,
-  doi = {10.48550/ARXIV.2203.15935},
-  url = {https://arxiv.org/abs/2203.15935},
-  author = {Dong, Guimin and Tang, Mingyue and Wang, Zhiyuan and Gao, Jiechao and Guo, Sikun and Cai, Lihua and Gutierrez, Robert and Campbell, Bradford and Barnes, Laura E. and Boukhechba, Mehdi},
-  keywords = {Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {Graph Neural Networks in IoT: A Survey},
-  publisher = {arXiv},
-  year = {2022}
+@article{10.1145/3565973,
+author = {Dong, Guimin and Tang, Mingyue and Wang, Zhiyuan and Gao, Jiechao and Guo, Sikun and Cai, Lihua and Gutierrez, Robert and Campbel, Bradford and Barnes, Laura E. and Boukhechba, Mehdi},
+title = {Graph Neural Networks in IoT: A Survey},
+year = {2023},
+issue_date = {May 2023},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {19},
+number = {2},
+issn = {1550-4859},
+url = {https://doi.org/10.1145/3565973},
+doi = {10.1145/3565973},
+abstract = {The Internet of Things (IoT) boom has revolutionized almost every corner of people’s daily lives: healthcare, environment, transportation, manufacturing, supply chain, and so on. With the recent development of sensor and communication technology, IoT artifacts, including smart wearables, cameras, smartwatches, and autonomous systems can accurately measure and perceive their surrounding environment. Continuous sensing generates massive amounts of data and presents challenges for machine learning. Deep learning models (e.g., convolution neural networks and recurrent neural networks) have been extensively employed in solving IoT tasks by learning patterns from multi-modal sensory data. Graph neural networks (GNNs), an emerging and fast-growing family of neural network models, can capture complex interactions within sensor topology and have been demonstrated to achieve state-of-the-art results in numerous IoT learning tasks. In this survey, we present a comprehensive review of recent advances in the application of GNNs to the IoT field, including a deep dive analysis of GNN design in various IoT sensing environments, an overarching list of public data and source codes from the collected publications, and future research directions. To keep track of newly published works, we collect representative papers and their open-source implementations and create a Github repository at GNN4IoT.},
+journal = {ACM Trans. Sen. Netw.},
+month = {apr},
+articleno = {47},
+numpages = {50},
+keywords = {sensor network, Internet of Things, survey, Graph neural network}
 }
 ```
 
