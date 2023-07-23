@@ -2,7 +2,7 @@
 ### This is the repository for the collection of applying Graph Neural Networks in Internet of Things (IoT).
 
 #### If you find this repository helpful, you may consider citing our work:
-* Guimin Dong, Mingyue Tang, Zhiyuan Wang, Jiechao Gao, Sikun Guo, Lihua Cai, Robert Gutierrez, Bradford Campbell, Laura E. Barnes, Mehdi Boukhechba, **Graph Neural Networks in IoT: A Survey**. [Link](https://doi.org/10.1145/3565973)
+* Guimin Dong, Mingyue Tang, Zhiyuan Wang, Jiechao Gao, Sikun Guo, Lihua Cai, Robert Gutierrez, Bradford Campbel, Laura E. Barnes, and Mehdi Boukhechba. 2023. Graph Neural Networks in IoT: A Survey. ACM Trans. Sen. Netw. 19, 2, Article 47 (May 2023), 50 pages. https://doi.org/10.1145/3565973. [Link](https://doi.org/10.1145/3565973)
 
 ```
 @article{10.1145/3565973,
